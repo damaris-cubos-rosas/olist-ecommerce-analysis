@@ -107,7 +107,7 @@ Análisis de principio a fin de **99,441 pedidos** de Olist, un marketplace bras
 1. Descarga el dataset de Kaggle: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-e-commerce).
 2. Instala [Power BI Desktop](https://aka.ms/pbidesktopstore) (gratis, Windows).
 3. Abre `powerbi/olist_ventas.pbix` y actualiza las rutas de los datos (**Transformar datos → Configuración de origen de datos**) para que apunten a tu carpeta de CSV.
-4. Análisis exploratorio en Google Sheets: [ver hoja de cálculo](LINK_GOOGLE_SHEETS) *(solo lectura)*.
+4. Análisis exploratorio en Google Sheets: [ver hoja de cálculo](https://docs.google.com/spreadsheets/d/1xZz8BylGJI02ZN544_DdECqi_ldmgYiAOh8mph2aBVs/edit?usp=sharing) *(solo lectura)*.
 
 ## ⚠️ Supuestos y limitaciones
 
@@ -121,6 +121,6 @@ Análisis de principio a fin de **99,441 pedidos** de Olist, un marketplace bras
 ## 👩‍💻 Autora
 
 **Dámaris Cubos Rosas** · Analista de Datos Junior
-[LinkedIn](LINK_LINKEDIN) · [Portafolio](LINK_PORTFOLIO)
+[Portafolio](LINK_PORTFOLIO)
 
 *Datos: Olist, publicados en Kaggle bajo licencia CC BY-NC-SA 4.0.*
