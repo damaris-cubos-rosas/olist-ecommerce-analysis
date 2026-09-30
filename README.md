@@ -107,7 +107,7 @@ End-to-end analysis of **99,441 orders** from Olist, a Brazilian e-commerce mark
 1. Download the dataset from Kaggle: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-e-commerce).
 2. Install [Power BI Desktop](https://aka.ms/pbidesktopstore) (free, Windows).
 3. Open `powerbi/olist_ventas.pbix` and update the data source paths (**Transform data → Data source settings**) to point to your CSV folder.
-4. Exploratory analysis in Google Sheets: [view spreadsheet](LINK_GOOGLE_SHEETS) *(read-only)*.
+4. Exploratory analysis in Google Sheets: [view spreadsheet](https://docs.google.com/spreadsheets/d/1xZz8BylGJI02ZN544_DdECqi_ldmgYiAOh8mph2aBVs/edit?usp=sharing) *(read-only)*.
 
 ## ⚠️ Assumptions & limitations
 
@@ -121,6 +121,6 @@ End-to-end analysis of **99,441 orders** from Olist, a Brazilian e-commerce mark
 ## 👩‍💻 Author
 
 **Dámaris Cubos Rosas** · Junior Data Analyst
-[LinkedIn](LINK_LINKEDIN) · [Portfolio](LINK_PORTFOLIO)
+[Portfolio](LINK_PORTFOLIO)
 
 *Data: Olist, published on Kaggle under the CC BY-NC-SA 4.0 license.*
