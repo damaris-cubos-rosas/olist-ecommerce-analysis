@@ -120,7 +120,7 @@ End-to-end analysis of **99,441 orders** from Olist, a Brazilian e-commerce mark
 
 ## 👩‍💻 Author
 
-**Dámaris Cubos Rosas** · Junior Data Analyst
-[Portfolio](LINK_PORTFOLIO)
+**Dámaris Cubos Rosas** · Junior Data Analyst · [LinkedIn](https://www.linkedin.com/in/damaris-cubos-rosas)
+[GitHub](https://github.com/damaris-cubos-rosas)
 
 *Data: Olist, published on Kaggle under the CC BY-NC-SA 4.0 license.*
