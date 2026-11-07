@@ -121,6 +121,7 @@ Análisis de principio a fin de **99,441 pedidos** de Olist, un marketplace bras
 ## 👩‍💻 Autora
 
 **Dámaris Cubos Rosas** · Analista de Datos Junior
-[Portafolio](LINK_PORTFOLIO)
+[LinkedIn](https://www.linkedin.com/in/damaris-cubos-rosas)
+[GitHub](https://github.com/damaris-cubos-rosas)
 
 *Datos: Olist, publicados en Kaggle bajo licencia CC BY-NC-SA 4.0.*
